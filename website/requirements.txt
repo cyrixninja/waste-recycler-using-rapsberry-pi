@@ -1,0 +1,3 @@
+plotly
+mysql-connector-python
+streamlit

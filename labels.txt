@@ -1,0 +1,3 @@
+0 Electronic
+1 Organic
+2 Recyclable
